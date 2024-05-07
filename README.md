@@ -15,7 +15,7 @@ This is a classic Snake game where the player controls a snake to eat food and g
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/rahulbansod519/Snake-Game.git
    
 2. Navigate to the project directory: cd snake-game
 3. Run the game: python main.py
